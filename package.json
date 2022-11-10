@@ -1,0 +1,25 @@
+{
+  "name": "course-animations",
+  "version": "1.0.0",
+  "description": "Animations can be accessed from : https://vivmagarwal.github.io/course-animations/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp linksInject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivmagarwal/course-animations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivmagarwal/course-animations/issues"
+  },
+  "homepage": "https://github.com/vivmagarwal/course-animations#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-inject": "^5.0.5"
+  }
+}

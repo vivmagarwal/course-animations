@@ -1,0 +1,1 @@
+Animations can be accessed from : https://vivmagarwal.github.io/course-animations/
